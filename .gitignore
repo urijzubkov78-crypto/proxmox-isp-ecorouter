@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.qcow2
+*.raw
+state.json
+*.conf
